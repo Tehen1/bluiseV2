@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "",
-  "description": ".",
+  "name": "IATechNewsLetter",
+  "shortName": "IATechNews",
+  "description": "La voie vers le succès : 3x par semaine, découvrez les experts de l'IA et les astuces indispensables pour faire prospérer votre entreprise dans l'ère de l'intelligence artificielle, afin de ne pas vous laisser distancer par cette vague imparable.",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
-  "lang": "en"
+  "lang": "fr"
 }

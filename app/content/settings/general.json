@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "| IATechNews",
-  "welcomeText": "# ",
+  "welcomeText": "La Lettre de l'IA et de la Tech est votre source d'informations incontournable pour réussir dans l'ère de l'intelligence artificielle. Recevez trois fois par semaine des conseils d'experts en IA, des astuces indispensables",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
